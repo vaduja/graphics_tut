@@ -1,0 +1,127 @@
+{
+  "homebrew_version": "3.4.5",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": false,
+  "poured_from_bottle": false,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": null,
+  "time": 1649414625,
+  "source_modified_time": 1644144652,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+    {
+      "full_name": "pkg-config",
+      "version": "0.29.2",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libpthread-stubs",
+      "version": "0.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "xorgproto",
+      "version": "2021.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxau",
+      "version": "1.0.9",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxdmcp",
+      "version": "1.1.3",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxcb",
+      "version": "1.14",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libx11",
+      "version": "1.7.3.1",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libxext",
+      "version": "1.3.4",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxfixes",
+      "version": "6.0.0",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxi",
+      "version": "1.8",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libxrender",
+      "version": "0.9.10",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxrandr",
+      "version": "1.5.2",
+      "declared_directly": true
+    },
+    {
+      "full_name": "libxxf86vm",
+      "version": "1.1.4",
+      "declared_directly": true
+    },
+    {
+      "full_name": "expat",
+      "version": "2.4.7",
+      "declared_directly": false
+    },
+    {
+      "full_name": "gettext",
+      "version": "0.21",
+      "declared_directly": false
+    },
+    {
+      "full_name": "libxdamage",
+      "version": "1.1.5",
+      "declared_directly": false
+    },
+    {
+      "full_name": "mesa",
+      "version": "22.0.1",
+      "declared_directly": true
+    }
+  ],
+  "source": {
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/freeglut.rb",
+    "tap": "homebrew/core",
+    "tap_git_head": "a0a408e4cb97ee92d3bcc9def98d5911bc2b1b6e",
+    "spec": "stable",
+    "versions": {
+      "stable": "3.2.2",
+      "head": "",
+      "version_scheme": 0
+    }
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 10.14.6",
+    "cpu_family": "broadwell",
+    "xcode": "10.3",
+    "clt": "10.3.0.0.1.1562985497",
+    "preferred_perl": "5.18"
+  }
+}

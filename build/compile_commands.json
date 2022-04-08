@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/user/project/graphics_tut/build",
+  "command": "/usr/bin/clang++ -I/Users/user/project/graphics_tut/src/code -I/Users/user/project/graphics_tut/dependencies/GLUT/include -I/Users/user/project/graphics_tut/dependencies/GLFW/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -std=gnu++17 -o src/CMakeFiles/opengl.dir/main.cpp.o -c /Users/user/project/graphics_tut/src/main.cpp",
+  "file": "/Users/user/project/graphics_tut/src/main.cpp"
+},
+{
+  "directory": "/Users/user/project/graphics_tut/build",
+  "command": "/usr/bin/clang++ -I/Users/user/project/graphics_tut/src/code -I/Users/user/project/graphics_tut/dependencies/GLUT/include -I/Users/user/project/graphics_tut/dependencies/GLFW/include -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -std=gnu++17 -o src/code/CMakeFiles/code.dir/some_code.cpp.o -c /Users/user/project/graphics_tut/src/code/some_code.cpp",
+  "file": "/Users/user/project/graphics_tut/src/code/some_code.cpp"
+}
+]
